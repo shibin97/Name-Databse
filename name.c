@@ -1,3 +1,4 @@
 printf("Enter your names below:");
-printf("Russian pig");
+printf("Rohit");
 printf("STEFFIN ABRAHAM");
+printf("Shj_k");
